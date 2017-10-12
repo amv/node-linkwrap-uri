@@ -1,0 +1,36 @@
+{
+  "name": "linkwrap-uri",
+  "version": "0.0.1",
+  "description": "Simple CLI utility toto wrap a URI in a simple HTML link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "linkwrap-uri": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amv/node-linkwrap-uri.git"
+  },
+  "keywords": [
+    "html",
+    "link",
+    "wrap",
+    "datauri",
+    "dataurl",
+    "data",
+    "uri",
+    "url"
+  ],
+  "author": "Antti Vähäkotamäki <antti@dicole.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amv/node-linkwrap-uri/issues"
+  },
+  "homepage": "https://github.com/amv/node-linkwrap-uri#readme",
+  "dependencies": {
+    "concat-stream": "^1.6.0",
+    "lodash": "^4.17.4"
+  }
+}
