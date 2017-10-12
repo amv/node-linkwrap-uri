@@ -1,6 +1,6 @@
 {
   "name": "linkwrap-uri",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple CLI utility toto wrap a URI in a simple HTML link",
   "main": "index.js",
   "scripts": {
